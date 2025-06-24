@@ -1,3 +1,5 @@
+![veriDOCK](veriDOCK.png)
+
 # [veridock - Coming Soon](http://www.veridock.com/)
 
 
